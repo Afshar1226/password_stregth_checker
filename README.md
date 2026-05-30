@@ -1,4 +1,4 @@
-# password_stregth_checker
+# password_strength_checker
  Add password strength checker mini project
 
 - Checks length, uppercase, lowercase, digit, symbol
